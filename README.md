@@ -31,8 +31,7 @@
 
 ### 📜 My Projects
 
-- [**Personal Portfolio Website for Freelancers**](https://github.com/KristianKjerstadAkerBP/portfolio-project) — A website for freelancers to showcase their skills and attract clients, focusing on **easy-to-manage WordPress themes**.
-- [**Azure SQL Data Warehouse Project**](https://github.com/KristianKjerstadAkerBP/azure-sql-warehouse) — Building a highly scalable database solution using **Azure SQL Data Warehouse**.
+Currently empty....
 
 ---
 
