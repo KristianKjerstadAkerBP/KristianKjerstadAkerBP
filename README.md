@@ -7,7 +7,7 @@
 - 🎯 I’m interested in **Full-Stack Development**, **DevOps**, **Cloud Solutions** (especially **Azure**), and **AI/ML Integration**.
 - 🌱 Currently learning **Advanced Cloud Architecture** and **Machine Learning Algorithms**.
 - 💞️ I’m looking to collaborate on **open-source** projects, **personal portfolio websites**, and **innovative cloud-based solutions**.
-- 📫 How to reach me: [Email](mailto:kristian@example.com) | [LinkedIn](https://www.linkedin.com/in/kristian-kjerstad/)
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/kristian-kjerstad/](https://www.linkedin.com/in/kristian-kjerstad-2a7845138/?originalSubdomain=no))
 - 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact
